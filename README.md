@@ -6,12 +6,17 @@
 <h3 align="center"> 🎓Development student at IIM </h3>
 
 ### Quick things to know 
-```javascript
--I'm currently learning 
+
+-I'm currently learning <br>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-```
 ## What about projects?
+
 </h2>
 
 
