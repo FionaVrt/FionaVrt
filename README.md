@@ -1,12 +1,9 @@
 <h1 align="center">Welcome everyone👋 i'm Fiona </h1>
 
-<!-- <p>
-<img alt="hello-groot" width="400"  src="ttps://media1.tenor.com/images/178e751ca8a25b15612a637b1c6e88f6/tenor.gif">
-</p> -->
 <h3 align="center"> 🎓Development student at IIM </h3>
 
 ### Quick things to know 
-<p ="">I like development, drawing, music and everything else.</p>
+<p ="">I like development, drawing, music and many other things.</p>
 
 #### I'm currently learning<br>
 
@@ -15,10 +12,19 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+## Design
 
-## What about projects?
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) <br>
 
-</h2>
+![Adobe InDesign](	https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+
+
+
+
+
+## Contact
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiona-ververt-riga-647445222/)
+
 
 
 
