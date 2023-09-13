@@ -1,9 +1,15 @@
 <h1 align="center">Welcome everyone👋 i'm Fiona </h1>
+<p align="center">
+<img src="https://media.giphy.com/media/R97jJCEGEmh0I/giphy-downsized.gif">
+</p>
+
 
 <h3 align="center"> 🎓Development student at IIM </h3>
 
+
 ### Quick things to know 
-<p ="">I like development, drawing, music and many other things.</p>
+<p >I like development, drawing ✏️, music 🔊and many other things.</p>
+
 
 #### I'm currently learning<br>
 
