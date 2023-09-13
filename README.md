@@ -1,13 +1,14 @@
 <h1 align="center">Welcome everyone👋 i'm Fiona </h1>
 
-<p>
+<!-- <p>
 <img alt="hello-groot" width="400"  src="ttps://media1.tenor.com/images/178e751ca8a25b15612a637b1c6e88f6/tenor.gif">
-</p>
+</p> -->
 <h3 align="center"> 🎓Development student at IIM </h3>
 
 ### Quick things to know 
+<p ="">I like development, drawing, music and everything else.</p>
 
--I'm currently learning <br>
+#### I'm currently learning<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
